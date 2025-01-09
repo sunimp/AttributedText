@@ -3,7 +3,6 @@
 //  AttributedText
 //
 //  Created by Sun on 2023/6/25.
-//  Copyright © 2023 Webull. All rights reserved.
 //
 
 import UIKit

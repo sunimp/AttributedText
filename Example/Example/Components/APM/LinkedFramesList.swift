@@ -3,7 +3,6 @@
 //  AttributedTextExample
 //
 //  Created by Sun on 2023/7/10.
-//  Copyright © 2023 Webull. All rights reserved.
 //
 
 import Foundation
